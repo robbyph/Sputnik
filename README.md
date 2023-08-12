@@ -1,3 +1,3 @@
 # Sputnik
 
-Discord Bot!
+Discord Bot for Redwater Den
