@@ -1,6 +1,8 @@
 # This example requires the 'message_content' intent.
 
 import discord # Import the discord module
+from dotenv import load_dotenv # Import the dotenv module
+import os # Import the os module
 
 intents = discord.Intents.default() # Create intents object
 intents.message_content = True # Subscribe to the message_content intent
@@ -21,4 +23,5 @@ async def on_message(message): # When the bot sees a message in the server
         if 'help' in message.content.lower(): # If the message contains 'help'
             await message.channel.send('In order to prompt the bot, be sure to mention it with the "@" mention symbol. \n\nUtilize the following functions:\n* If you wish to know who the GOAT is, include "goat" in your message, or use the command "!goat"') # Send a message in the same channel
 
-client.run('MTE0MDA2MjIzMTI4MzkwMDQ4Nw.GHm7ho.BfgWwqJgXVdZgFtMVla665S435yWE7Fm77YXaw')  # Run the bot with the token
+load_dotenv() # Load the .env file  
+client.run(os.environ.get("TOKEN"))  # Run the bot with the token
