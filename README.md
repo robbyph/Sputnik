@@ -2,7 +2,8 @@
 
 Discord Bot for Redwater Den
 
-![71620281815189](https://github.com/robbyph/Sputnik/assets/11604312/ab4e90f0-fcb3-4e35-9562-f5e5bb85453d)
+![71620281815189](https://github.com/robbyph/Sputnik/assets/11604312/e5a5a46e-a337-4ea1-bbc6-1e7e1f96b101)
+
 
 ## Current Features
 * Help - Displays all existing functionality
