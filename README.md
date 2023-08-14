@@ -4,6 +4,23 @@ Discord Bot for Redwater Den
 
 ![71620281815189](https://github.com/robbyph/Sputnik/assets/11604312/ab4e90f0-fcb3-4e35-9562-f5e5bb85453d)
 
+## Current Features
+* Help - Displays all existing functionality
+* GOAT - Tells the user who the GOAT is
+* Birthdays - Wishes each user 'Happy Birthday!' on their birthdays
+* Trivia - A fun and short trivia game
+
+## Upcoming Features
+* Spotify-based DJ
+* General Server Stats
+* ChatGPT Integration
+* Plex API Integration
+* Weather API Integration
+* DALLE Integration
+* Random Quotes
+* Rolling Dice
+* Year Progression
+* Custom LLM Integration
 
 ## Requirements
 
