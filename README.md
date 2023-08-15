@@ -1,6 +1,6 @@
 # Sputnik
 
-Discord Bot for Redwater Den
+Discord Bot for 'Redwater Den'
 
 ![71620281815189](https://github.com/robbyph/Sputnik/assets/11604312/e5a5a46e-a337-4ea1-bbc6-1e7e1f96b101)
 
